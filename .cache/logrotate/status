@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/mohit/.cache/upstart/dbus.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/indicator-printers.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/unity-panel-service-lockscreen.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/bamfdaemon.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/ssh-agent.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/window-stack-bridge.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/update-notifier-release.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/at-spi2-registryd.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/gpg-agent.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/hud.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/unity7.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/unity-settings-daemon.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/upstart-event-bridge.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/indicator-sound.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/gnome-keyring-ssh.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/unity-panel-service.log" 2019-12-11-19:21:51
+"/home/mohit/.cache/upstart/indicator-keyboard.log" 2019-12-11-19:21:51

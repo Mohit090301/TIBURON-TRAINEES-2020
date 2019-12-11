@@ -1,0 +1,6 @@
+
+(unity-settings-daemon:1587): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(unity-settings-daemon:1587): GLib-GObject-CRITICAL **: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(unity-settings-daemon:1590): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.freedesktop.UPower.KbdBacklight' on object at path /org/freedesktop/UPower/KbdBacklight

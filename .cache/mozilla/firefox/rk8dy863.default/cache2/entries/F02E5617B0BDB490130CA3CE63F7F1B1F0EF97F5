@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Ubuntu 16.04.6 LTS (Xenial Xerus)</title>
+<meta charset="UTF-8" />
+<meta name="description" content="CD images for Ubuntu 16.04.6 LTS (Xenial Xerus)" />
+<meta name="author" content="Canonical" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Main style sheets for CSS2 capable browsers -->
+<style type="text/css" media="screen">
+  @import url(https://assets.ubuntu.com/v1/vanilla-framework-version-1.8.0.min.css);
+    .p-table-wrapper {
+        overflow-x: scroll;
+    }
+
+    table {
+        min-width: 984px;
+        width: 100%;
+    }
+
+    th[colspan="5"],
+    th[colspan="4"] {
+        display: none;
+    }
+
+    th:first-child,
+    td:first-child {
+        vertical-align: inherit;
+        width: 5%;
+    }
+
+    th:nth-of-type(2),
+    td:nth-of-type(2) {
+        width: 20em;
+    }
+
+    th:nth-of-type(3),
+    td:nth-of-type(3) {
+        width: 12em;
+    }
+
+    th:nth-of-type(4),
+    td:nth-of-type(4) {
+        width: 6em;
+    }
+
+    th:nth-of-type(5),
+    td:nth-of-type(5) {
+    }
+</style>
+
+</head>
+<body>
+    <header id="navigation" class="p-navigation">
+        <div class="row">
+          <div class="p-navigation__banner">
+            <div class="p-navigation__logo">
+              <a class="p-navigation__link" href="/">
+              <img class="p-navigation__image"
+               src=" https://assets.ubuntu.com/v1/411e1474-releases-lockup.svg"
+               alt="">
+              </a>
+            </div>
+          </div>
+          <nav class="p-navigation__nav" role="menubar">
+            <span class="u-off-screen">
+              <a href="#pageWrapper">Jump to main content</a>
+            </span>
+          </nav>
+        </div>
+    </header>
+    <section class="p-strip--image is-dark"
+     style="background-image: url('https://assets.ubuntu.com/v1/775cc62b-vanilla-grad-background.png');
+     background-position: 75                                                 %;">
+        <div class="row">
+            <div id="header"><a href="http://www.ubuntu.com/"></a></div>
+            <h1 class="u-no-margin--bottom">Ubuntu 16.04.6 LTS (Xenial Xerus)</h1>
+        </div>
+    </section>
+    <div id="pageWrapper" class="p-strip">
+        <div class="row">
+            <div id="main">
+
+<h2>Select an image</h2>
+
+<p>Ubuntu is distributed on two types of images described below.
+
+<div class="row p-divider"><div class="p-card">
+<div class="col-6 p-divider__block">
+<h3>Desktop image</h3>
+
+<p>The desktop image allows you to try Ubuntu without changing your computer at all, and at your option to install it permanently later.  This type of image is what most people will want to use.  You will need at least 384MiB of RAM to install from this image.</p>
+
+
+</div>
+<div class="col-6 p-divider__block">
+<a href="ubuntu-16.04.6-desktop-amd64.iso">64-bit PC (AMD64) desktop image</a>
+
+<p>Choose this if you have a computer based on the AMD64 or EM64T architecture (e.g., Athlon64, Opteron, EM64T Xeon, Core 2).  If you have a non-64-bit processor made by AMD, or if you need full support for 32-bit code, use the i386 images instead.  Choose this if you are at all unsure.</p>
+
+<a href="ubuntu-16.04.6-desktop-i386.iso">32-bit PC (i386) desktop image</a>
+
+<p>For almost all PCs.  This includes most machines with Intel/AMD/etc type processors and almost all computers that run Microsoft Windows, as well as newer Apple Macintosh systems based on Intel processors.</p>
+
+</div>
+</div></div>
+<div class="row p-divider"><div class="p-card">
+<div class="col-6 p-divider__block">
+<h3>Server install image</h3>
+
+<p>The server install image allows you to install Ubuntu permanently on a computer for use as a server.  It will not install a graphical user interface.</p>
+
+
+</div>
+<div class="col-6 p-divider__block">
+<a href="ubuntu-16.04.6-server-amd64.iso">64-bit PC (AMD64) server install image</a>
+
+<p>Choose this if you have a computer based on the AMD64 or EM64T architecture (e.g., Athlon64, Opteron, EM64T Xeon, Core 2).  If you have a non-64-bit processor made by AMD, or if you need full support for 32-bit code, use the i386 images instead.  Choose this if you are at all unsure.</p>
+
+<a href="ubuntu-16.04.6-server-i386.iso">32-bit PC (i386) server install image</a>
+
+<p>For almost all PCs.  This includes most machines with Intel/AMD/etc type processors and almost all computers that run Microsoft Windows, as well as newer Apple Macintosh systems based on Intel processors.</p>
+
+</div>
+</div></div>
+<p>A full list of available files, including <a href="https://help.ubuntu.com/community/BitTorrent">BitTorrent</a> files, can be found below.</p>
+
+<p>If you need help burning these images to disk, see the <a href="https://help.ubuntu.com/community/BurningIsoHowto">Image Burning Guide</a>.</p>
+
+<div class='p-table-wrapper'>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]" width="22" height="22"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]" width="22" height="22"></td><td><a href="/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="MD5SUMS">MD5SUMS</a></td><td align="right">2019-02-28 16:54  </td><td align="right">264 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="MD5SUMS-metalink">MD5SUMS-metalink</a></td><td align="right">2019-02-28 16:54  </td><td align="right">284 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="MD5SUMS-metalink.gpg">MD5SUMS-metalink.gpg</a></td><td align="right">2019-02-28 16:54  </td><td align="right">916 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="MD5SUMS.gpg">MD5SUMS.gpg</a></td><td align="right">2019-02-28 16:54  </td><td align="right">916 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="SHA1SUMS">SHA1SUMS</a></td><td align="right">2019-02-28 16:54  </td><td align="right">296 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="SHA1SUMS.gpg">SHA1SUMS.gpg</a></td><td align="right">2019-02-28 16:54  </td><td align="right">916 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="SHA256SUMS">SHA256SUMS</a></td><td align="right">2019-02-28 16:54  </td><td align="right">392 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="SHA256SUMS.gpg">SHA256SUMS.gpg</a></td><td align="right">2019-02-28 16:54  </td><td align="right">916 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="../cdicons/iso.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-amd64.iso">ubuntu-16.04.6-desktop-amd64.iso</a></td><td align="right">2019-02-27 09:57  </td><td align="right">1.5G</td><td>Desktop image for 64-bit PC (AMD64) computers (standard download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/torrent.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-amd64.iso.torrent">ubuntu-16.04.6-desktop-amd64.iso.torrent</a></td><td align="right">2019-02-28 16:53  </td><td align="right"> 62K</td><td>Desktop image for 64-bit PC (AMD64) computers (<a href="https://help.ubuntu.com/community/BitTorrent">BitTorrent</a> download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-amd64.iso.zsync">ubuntu-16.04.6-desktop-amd64.iso.zsync</a></td><td align="right">2019-02-28 16:53  </td><td align="right">3.1M</td><td>Desktop image for 64-bit PC (AMD64) computers (<a href="http://zsync.moria.org.uk/">zsync</a> metafile)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-amd64.list">ubuntu-16.04.6-desktop-amd64.list</a></td><td align="right">2019-02-27 09:57  </td><td align="right">4.3K</td><td>Desktop image for 64-bit PC (AMD64) computers (file listing)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[TXT]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-amd64.manifest">ubuntu-16.04.6-desktop-amd64.manifest</a></td><td align="right">2019-02-27 00:12  </td><td align="right"> 68K</td><td>Desktop image for 64-bit PC (AMD64) computers (contents of live filesystem)</td></tr>
+<tr><td valign="top"><img src="../cdicons/torrent.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-amd64.metalink">ubuntu-16.04.6-desktop-amd64.metalink</a></td><td align="right">2019-02-28 16:54  </td><td align="right"> 49K</td><td>Ubuntu 16.04.6 LTS (Xenial Xerus)</td></tr>
+<tr><td valign="top"><img src="../cdicons/iso.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-i386.iso">ubuntu-16.04.6-desktop-i386.iso</a></td><td align="right">2019-02-27 10:16  </td><td align="right">1.6G</td><td>Desktop image for 32-bit PC (i386) computers (standard download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/torrent.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-i386.iso.torrent">ubuntu-16.04.6-desktop-i386.iso.torrent</a></td><td align="right">2019-02-28 16:52  </td><td align="right"> 63K</td><td>Desktop image for 32-bit PC (i386) computers (<a href="https://help.ubuntu.com/community/BitTorrent">BitTorrent</a> download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-i386.iso.zsync">ubuntu-16.04.6-desktop-i386.iso.zsync</a></td><td align="right">2019-02-28 16:52  </td><td align="right">3.1M</td><td>Desktop image for 32-bit PC (i386) computers (<a href="http://zsync.moria.org.uk/">zsync</a> metafile)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-i386.list">ubuntu-16.04.6-desktop-i386.list</a></td><td align="right">2019-02-27 10:16  </td><td align="right">3.8K</td><td>Desktop image for 32-bit PC (i386) computers (file listing)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[TXT]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-i386.manifest">ubuntu-16.04.6-desktop-i386.manifest</a></td><td align="right">2019-02-27 00:10  </td><td align="right"> 67K</td><td>Desktop image for 32-bit PC (i386) computers (contents of live filesystem)</td></tr>
+<tr><td valign="top"><img src="../cdicons/torrent.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-desktop-i386.metalink">ubuntu-16.04.6-desktop-i386.metalink</a></td><td align="right">2019-02-28 16:54  </td><td align="right"> 48K</td><td>Ubuntu 16.04.6 LTS (Xenial Xerus)</td></tr>
+<tr><td valign="top"><img src="../cdicons/iso.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-amd64.iso">ubuntu-16.04.6-server-amd64.iso</a></td><td align="right">2019-02-27 00:07  </td><td align="right">873M</td><td>Server install image for 64-bit PC (AMD64) computers (standard download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/torrent.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-amd64.iso.torrent">ubuntu-16.04.6-server-amd64.iso.torrent</a></td><td align="right">2019-02-28 15:51  </td><td align="right"> 34K</td><td>Server install image for 64-bit PC (AMD64) computers (<a href="https://help.ubuntu.com/community/BitTorrent">BitTorrent</a> download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-amd64.iso.zsync">ubuntu-16.04.6-server-amd64.iso.zsync</a></td><td align="right">2019-02-28 15:51  </td><td align="right">1.7M</td><td>Server install image for 64-bit PC (AMD64) computers (<a href="http://zsync.moria.org.uk/">zsync</a> metafile)</td></tr>
+<tr><td valign="top"><img src="../cdicons/jigdo.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-amd64.jigdo">ubuntu-16.04.6-server-amd64.jigdo</a></td><td align="right">2019-02-28 15:51  </td><td align="right">137K</td><td>Server install image for 64-bit PC (AMD64) computers (<a href="http://atterer.org/jigdo">jigdo</a> download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-amd64.list">ubuntu-16.04.6-server-amd64.list</a></td><td align="right">2019-02-27 00:07  </td><td align="right"> 98K</td><td>Server install image for 64-bit PC (AMD64) computers (file listing)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[TXT]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-amd64.manifest">ubuntu-16.04.6-server-amd64.manifest</a></td><td align="right">2019-02-27 00:01  </td><td align="right">5.4K</td><td>Server install image for 64-bit PC (AMD64) computers (contents of live filesystem)</td></tr>
+<tr><td valign="top"><img src="../cdicons/torrent.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-amd64.metalink">ubuntu-16.04.6-server-amd64.metalink</a></td><td align="right">2019-02-28 16:54  </td><td align="right"> 48K</td><td>Ubuntu 16.04.6 LTS (Xenial Xerus)</td></tr>
+<tr><td valign="top"><img src="../cdicons/jigdo.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-amd64.template">ubuntu-16.04.6-server-amd64.template</a></td><td align="right">2019-02-27 00:07  </td><td align="right"> 87M</td><td>Server install image for 64-bit PC (AMD64) computers (<a href="http://atterer.org/jigdo">jigdo</a> template)</td></tr>
+<tr><td valign="top"><img src="../cdicons/iso.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-i386.iso">ubuntu-16.04.6-server-i386.iso</a></td><td align="right">2019-02-27 00:10  </td><td align="right">837M</td><td>Server install image for 32-bit PC (i386) computers (standard download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/torrent.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-i386.iso.torrent">ubuntu-16.04.6-server-i386.iso.torrent</a></td><td align="right">2019-02-28 15:52  </td><td align="right"> 33K</td><td>Server install image for 32-bit PC (i386) computers (<a href="https://help.ubuntu.com/community/BitTorrent">BitTorrent</a> download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-i386.iso.zsync">ubuntu-16.04.6-server-i386.iso.zsync</a></td><td align="right">2019-02-28 15:52  </td><td align="right">1.6M</td><td>Server install image for 32-bit PC (i386) computers (<a href="http://zsync.moria.org.uk/">zsync</a> metafile)</td></tr>
+<tr><td valign="top"><img src="../cdicons/jigdo.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-i386.jigdo">ubuntu-16.04.6-server-i386.jigdo</a></td><td align="right">2019-02-28 15:52  </td><td align="right">134K</td><td>Server install image for 32-bit PC (i386) computers (<a href="http://atterer.org/jigdo">jigdo</a> download)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-i386.list">ubuntu-16.04.6-server-i386.list</a></td><td align="right">2019-02-27 00:10  </td><td align="right"> 96K</td><td>Server install image for 32-bit PC (i386) computers (file listing)</td></tr>
+<tr><td valign="top"><img src="../cdicons/list.png" alt="[TXT]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-i386.manifest">ubuntu-16.04.6-server-i386.manifest</a></td><td align="right">2019-02-27 00:01  </td><td align="right">5.3K</td><td>Server install image for 32-bit PC (i386) computers (contents of live filesystem)</td></tr>
+<tr><td valign="top"><img src="../cdicons/torrent.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-i386.metalink">ubuntu-16.04.6-server-i386.metalink</a></td><td align="right">2019-02-28 16:54  </td><td align="right"> 48K</td><td>Ubuntu 16.04.6 LTS (Xenial Xerus)</td></tr>
+<tr><td valign="top"><img src="../cdicons/jigdo.png" alt="[   ]" width="22" height="22"></td><td><a href="ubuntu-16.04.6-server-i386.template">ubuntu-16.04.6-server-i386.template</a></td><td align="right">2019-02-27 00:10  </td><td align="right"> 83M</td><td>Server install image for 32-bit PC (i386) computers (<a href="http://atterer.org/jigdo">jigdo</a> template)</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</div></div></div></div>
+<footer class="p-footer">
+  <div class="row">
+    <p><small>&copy; 2018 Canonical Ltd. Ubuntu and Canonical
+      are registered trademarks of Canonical Ltd.</small></p>
+    <nav class="p-footer__nav">
+      <ul class="p-footer__links">
+        <li class="p-footer__item">
+          <a class="p-footer__link"
+           href="https://www.ubuntu.com/legal"><small>Legal
+           information</small></a>
+        </li>
+        <li class="p-footer__item">
+          <a class="p-footer__link"
+           href="https://bugs.launchpad.net/ubuntu-cdimage/+filebug">
+           <small>Report a bug on this site</small></a>
+        </li>
+      </ul>
+      <span class="u-off-screen">
+        <a href="#">Go to the top of the page</a>
+      </span>
+    </nav>
+  </div>
+</footer>
+</body></html>
+A'0þÛr      ]ð¾‰]ð¾ªAQ½]ð¾‰   "    :http://releases.ubuntu.com/16.04/ necko:classified 1 strongly-framed 1 request-method GET request-Accept-Encoding gzip, deflate response-head HTTP/1.1 200 OK
+Date: Wed, 11 Dec 2019 10:01:45 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Content-Type: text/html;charset=UTF-8
+ original-response-headers Date: Wed, 11 Dec 2019 10:01:45 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+ ctid 1 eTLD1Access 1;0;1517748388, uncompressed-len 0 predictor::resource-count 11 predictor::https://assets.ubuntu.com/v1/411e1474-releases-lockup.svg 1,1,1576058505,4097 predictor::http://releases.ubuntu.com/icons/blank.gif 1,1,1576058505,4097 predictor::http://releases.ubuntu.com/icons/back.gif 1,1,1576058505,4097 predictor::http://releases.ubuntu.com/cdicons/list.png 1,1,1576058505,4097 predictor::http://releases.ubuntu.com/cdicons/iso.png 1,1,1576058505,4097 predictor::http://releases.ubuntu.com/cdicons/torrent.png 1,1,1576058505,4097 predictor::http://releases.ubuntu.com/cdicons/jigdo.png 1,1,1576058505,4097 predictor::https://assets.ubuntu.com/v1/vanilla-framework-version-1.8.0.min.css 1,1,1576058505,4096 net-response-time-onstart 701 net-response-time-onstop 919 predictor::https://assets.ubuntu.com/v1/775cc62b-vanilla-grad-background.png 1,1,1576058505,4097 predictor::https://assets.ubuntu.com/v1/e8c07df6-Ubuntu-L_W.woff2 1,1,1576058505,4096 predictor::https://assets.ubuntu.com/v1/7f100985-Ubuntu-Th_W.woff2 1,1,1576058505,4096   Eó

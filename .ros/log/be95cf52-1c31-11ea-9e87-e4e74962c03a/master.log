@@ -1,0 +1,21 @@
+[rosmaster.main][INFO] 2019-12-11 21:47:36,926: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2019-12-11 21:47:36,926: Starting ROS Master Node
+[xmlrpc][INFO] 2019-12-11 21:47:36,927: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2019-12-11 21:47:36,927: Started XML-RPC server [http://mohit-HP-Laptop-15-da1xxx:11311/]
+[xmlrpc][INFO] 2019-12-11 21:47:36,927: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2019-12-11 21:47:36,927: Master initialized: port[11311], uri[http://mohit-HP-Laptop-15-da1xxx:11311/]
+[rosmaster.master][INFO] 2019-12-11 21:47:37,014: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2019-12-11 21:47:37,016: +PARAM [/roslaunch/uris/host_mohit_hp_laptop_15_da1xxx__36733] by /roslaunch
+[rosmaster.master][INFO] 2019-12-11 21:47:37,074: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2019-12-11 21:47:37,074: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2019-12-11 21:47:37,256: +SERVICE [/rosout/get_loggers] /rosout http://mohit-HP-Laptop-15-da1xxx:39801/
+[rosmaster.master][INFO] 2019-12-11 21:47:37,258: +SERVICE [/rosout/set_logger_level] /rosout http://mohit-HP-Laptop-15-da1xxx:39801/
+[rosmaster.master][INFO] 2019-12-11 21:47:37,263: +PUB [/rosout_agg] /rosout http://mohit-HP-Laptop-15-da1xxx:39801/
+[rosmaster.master][INFO] 2019-12-11 21:47:37,274: +SUB [/rosout] /rosout http://mohit-HP-Laptop-15-da1xxx:39801/
+[rosmaster.master][INFO] 2019-12-11 21:52:05,802: -PUB [/rosout_agg] /rosout http://mohit-HP-Laptop-15-da1xxx:39801/
+[rosmaster.master][INFO] 2019-12-11 21:52:05,802: -SUB [/rosout] /rosout http://mohit-HP-Laptop-15-da1xxx:39801/
+[rosmaster.master][INFO] 2019-12-11 21:52:05,803: -SERVICE [/rosout/get_loggers] /rosout rosrpc://mohit-HP-Laptop-15-da1xxx:51951
+[rosmaster.master][INFO] 2019-12-11 21:52:05,803: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://mohit-HP-Laptop-15-da1xxx:51951
+[rosmaster.main][INFO] 2019-12-11 21:52:05,826: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2019-12-11 21:52:05,826: stopping master...
+[rospy.core][INFO] 2019-12-11 21:52:05,827: signal_shutdown [atexit]
